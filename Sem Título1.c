@@ -14,7 +14,7 @@ int main(){
 	
 			//Pedindo Dados
 			printf("DADOS DO ALUNO");
-			printf("Insira Seu Nome: ");
+			printf("\nInsira Seu Nome: ");
 			scanf("%s",&nomeAluno);
 			
 			printf("Insira Sua Idade: ");
